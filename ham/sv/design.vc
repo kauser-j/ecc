@@ -1,0 +1,5 @@
+// This is a vc file to pass additional options to the simulator
++libext+.sv
+
++incdir+./
+-y      ./
